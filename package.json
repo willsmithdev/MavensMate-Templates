@@ -7,6 +7,12 @@
 			"author" 		: "MavensMate"
 		},
 		{
+			"name" 			: "Tester",
+			"file_name"		: "Test.cls",
+			"description" 	: "Some test thing",
+			"author" 		: "Will Smith"
+		},
+		{
 			"name" 			: "Controller Extension",
 			"file_name"		: "ControllerExtension.cls",
 			"description" 	: "Controller extension Apex Class",
