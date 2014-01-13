@@ -7,12 +7,6 @@
 			"author" 		: "MavensMate"
 		},
 		{
-			"name" 			: "Tester",
-			"file_name"		: "Test.cls",
-			"description" 	: "Some test thing",
-			"author" 		: "Will Smith"
-		},
-		{
 			"name" 			: "Controller Extension",
 			"file_name"		: "ControllerExtension.cls",
 			"description" 	: "Controller extension Apex Class",
@@ -98,15 +92,9 @@
 	"ApexTrigger" : [
 		{
 			"name" 			: "Apex Trigger",
-			"file_name"		: "ApexTrigger.trigger",
-			"description" 	: "Basic Apex Trigger template",
-			"author" 		: "MavensMate"
+			"file_name"		: "ApexTriggerFull.trigger",
+			"description" 	: "Trigger Template Which Includes All Events",
+			"author" 		: "Will Smith"
 		},
-		{
-			"name" 			: "Bulkified Apex Trigger",
-			"file_name"		: "ApexTriggerBulk.trigger",
-			"description" 	: "Bulk Apex Trigger with all Trigger events",
-			"author" 		: "David Schach @dschach"
-		}
 	]
 }
