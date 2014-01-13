@@ -95,6 +95,6 @@
 			"file_name"		: "ApexTriggerFull.trigger",
 			"description" 	: "Trigger Template Which Includes All Events",
 			"author" 		: "Will Smith"
-		},
+		}
 	]
 }
